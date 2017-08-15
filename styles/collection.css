@@ -34,3 +34,11 @@ body.collection {
 .collection-album-container img {
   width: 80%;
 }
+
+.links-container:active {
+  background-color: white;
+}
+
+.links-container:hover {
+  color: rgb(233,50,117)
+}
